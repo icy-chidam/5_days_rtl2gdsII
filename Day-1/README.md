@@ -8,8 +8,11 @@
 `vi`            | vi text editor
 
 # Getting Started with RTL
-```bash vi full_adder.v ##Initating the name of the vi file
+
+```bash
+vi full_adder.v ##Initating the name of the vi file
 ```
+
 
 ```verilog
 module full adder (A,B,C_in,C_out, Clock, SUM);

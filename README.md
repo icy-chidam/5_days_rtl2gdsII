@@ -88,3 +88,21 @@ This software helps to visulaize and debug the test_bench file.
 * vcs -full64 full_adder_tb.v -debug_access+all -lca -kdb
 * ./simv Verdi
 * verdi -ssf novas.fsdb -nologo
+
+<img width="1600" height="819" alt="Screenshot from 2025-02-18 13-45-29" src="https://github.com/user-attachments/assets/ac56c646-4dc0-4f93-8cd0-dc5c5bca5ce7" />
+
+# Design Compiler
+<img width="1546" height="433" alt="Screenshot from 2025-02-18 16-20-58 (1)" src="https://github.com/user-attachments/assets/d3ff4274-42df-4ff9-86de-0dcc95db3329" />
+Block Diagram
+<img width="1600" height="559" alt="Screenshot from 2025-02-18 16-19-43" src="https://github.com/user-attachments/assets/df3b6d8c-0f5b-4525-b315-283176cb13ee" />
+
+Cell Report
+<img width="1600" height="900" alt="Screenshot from 2025-02-19 15-01-45" src="https://github.com/user-attachments/assets/338a9484-cb03-46f3-b1f6-f93f3030e5f6" />
+
+# IC Compiler-II
+<img width="1556" height="667" alt="Screenshot from 2025-02-19 16-02-15" src="https://github.com/user-attachments/assets/f8bd1604-8d8f-4c4e-8cab-0033bf168d33" />
+
+Floorplanning & Routing
+
+<img width="1595" height="723" alt="Screenshot from 2025-02-20 12-50-26 (1)" src="https://github.com/user-attachments/assets/eee17d0c-c16b-426b-b3fc-95bd6aad5ba6" />
+
